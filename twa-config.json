@@ -1,1 +1,16 @@
-
+{
+  "appId": "com.luckybox.game",
+  "appName": "LuckyBox",
+  "shortName": "LuckyBox",
+  "webUrl": "https://teletechai-bot.onrender.com",
+  "launcherName": "LuckyBox",
+  "display": "standalone",
+  "orientation": "portrait",
+  "themeColor": "#ffd700",
+  "backgroundColor": "#050300",
+  "iconUrl": "icons/icon-512.png",
+  "maskableIconUrl": "icons/icon-512.png",
+  "enableNotifications": false,
+  "startUrl": "/",
+  "splashScreenFadeOutDuration": 300
+}
